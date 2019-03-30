@@ -1,0 +1,46 @@
+{
+  "profile":{
+    "image":"images/girl.jpg",
+    "name":"Theju Reddy",
+    "desig":"Student",
+    "email":"thejunarasani20@gmail.com",
+    "mobile":"8639786819"
+  },
+  "career":{
+    "info":"To Innovate Things"
+  },
+  "edu":
+    [
+      {
+        "s_no":"1",
+        "insti":"mits",
+        "quali":"B.Tech",
+        "per":"94%",
+        "yop":"2021"
+      },
+      {
+        "s_no":"2",
+        "insti":"Narayana",
+        "quali":"inter",
+        "per":"98.4%",
+        "yop":"2017"
+      },
+      {
+        "s_no":"3",
+        "insti":"Emmaus",
+        "quali":"10th",
+        "per":"88.9%",
+        "yop":"2015"
+      }
+    ],
+    "Skills":{
+      "s1":"C,C++,java,DBMS,html,css.",
+      "s2":"Able to give better results in pressure situations.",
+      "s3":"A good team player."
+    },
+    "hobbies":{
+      "h1":"Travelling and exploring things.",
+      "h2":"Reading books,collection of photographs.",
+      "h3":"Persuing new courses."
+    }
+}
